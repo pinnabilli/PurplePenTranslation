@@ -9,4 +9,4 @@ The current version of [Purple Pen](http://purplepen.golde.org/) (3.1.4) crashes
 - `Identity.xsl`: identity transformation, does nothing
 <!-- -->
 - `ItalianTranslationWithFlagPlacement.xml`: added custom symbols in column H for flag placement, added changelog
-- `ItalianTranslation.xml`: English trench plural, 11.14W fix, Italian translation
+- `ItalianTranslation.xml`: English trench plural, 11.14W fix, Italian (Italy) translation
