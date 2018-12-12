@@ -2,7 +2,7 @@
 
 <!-- English trench plural
 11.14W fix
-Italian translation
+Italian (Italy) translation
 flag placement symbols
 
 based on Purple Pen 3.1.4 -->
@@ -146,7 +146,7 @@ for the symbols.
   <language lang="et" plural-nouns="true" plural-modifiers="true" gender-modifiers="false">eesti</language>
   <language lang="fi" plural-nouns="true" plural-modifiers="true" gender-modifiers="false">suomi</language>
   <language lang="fr" plural-nouns="true" plural-modifiers="true" gender-modifiers="true" genders="masculin,féminin">Français</language>
-  <language lang="it-IT" plural-nouns="true" plural-modifiers="true" gender-modifiers="true" genders="maschile,femminile">Italiano</language>
+  <language lang="it-IT" plural-nouns="true" plural-modifiers="true" gender-modifiers="true" genders="maschile,femminile">Italiano (Italia)</language>
   <language lang="ja" plural-nouns="false" plural-modifiers="false" gender-modifiers="false">日本語 (日本)</language>
   <language lang="nb-NO" plural-nouns="true" plural-modifiers="true" gender-modifiers="false">norsk, bokmål (Norge)</language>
   <language lang="nn-NO" plural-nouns="true" plural-modifiers="true" gender-modifiers="false">norsk, nynorsk (Noreg)</language>
@@ -4797,9 +4797,9 @@ for the symbols.
     <name lang="fr">Bosquet</name>
     <text lang="fr" gender="masculin">bosquet</text>
     <text lang="fr" plural="true" gender="masculin">bosquets</text>
-    <name lang="it-IT">Gruppo di alberi</name>
-    <text lang="it-IT" gender="maschile">gruppo di alberi</text>
-    <text lang="it-IT" plural="true" gender="maschile">gruppi di alberi</text>
+    <name lang="it-IT">Boschetto</name>
+    <text lang="it-IT" gender="maschile">boschetto</text>
+    <text lang="it-IT" plural="true" gender="maschile">boschetti</text>
     <name lang="ja">小さな林</name>
     <text lang="ja">小さな林</text>
     <name lang="nb-NO">Treklynge</name>
@@ -7887,7 +7887,7 @@ for the symbols.
     <name lang="fr">Croisement</name>
     <text lang="fr" gender="masculin">croisement entre {0} et {1}</text>
     <name lang="it-IT">Incrocio</name>
-    <text lang="it-IT">incrocio di {0} e {1}</text>
+    <text lang="it-IT">incrocio tra {0} e {1}</text>
     <name lang="ja">交点</name>
     <text lang="ja">{0}と{1}の交点</text>
     <name lang="nb-NO">Kryss</name>
@@ -7945,7 +7945,7 @@ for the symbols.
     <name lang="fr">Croisement (mêmes symboles)</name>
     <text lang="fr" gender="masculin">croisement de {1}</text>
     <name lang="it-IT">Incrocio (oggetti uguali)</name>
-    <text lang="it-IT">incrocio di {1}</text>
+    <text lang="it-IT">incrocio tra {1}</text>
     <name lang="ja">(同種の特徴物の)交点</name>
     <text lang="ja">{0}の交点</text>
     <name lang="nb-NO">Kryss</name>
@@ -7994,8 +7994,8 @@ for the symbols.
     <text lang="fi">{0} ja {1} haara</text>
     <name lang="fr">Jonction</name>
     <text lang="fr" gender="féminin">jonction entre {0} et {1}</text>
-    <name lang="it-IT">Bivio</name>
-    <text lang="it-IT">bivio di {0} e {1}</text>
+    <name lang="it-IT">Raccordo</name>
+    <text lang="it-IT">raccordo tra {0} e {1}</text>
     <name lang="ja">分岐</name>
     <text lang="ja">{0}と{1}の分岐</text>
     <name lang="nb-NO">Dele</name>
@@ -8053,8 +8053,8 @@ for the symbols.
     <text lang="fi" plural="true">{0} haara</text>
     <name lang="fr">Jonction (mêmes symboles)</name>
     <text lang="fr" gender="féminin">jonction de {1}</text>
-    <name lang="it-IT">Bivio (oggetti uguali)</name>
-    <text lang="it-IT">bivio di {1}</text>
+    <name lang="it-IT">Raccordo (oggetti uguali)</name>
+    <text lang="it-IT">raccordo tra {1}</text>
     <name lang="ja">(同種の特徴物の)分岐</name>
     <text lang="ja">{0}の分岐</text>
     <name lang="nb-NO">Junction (objects of same kind)</name>
@@ -12224,17 +12224,22 @@ for the symbols.
     <name lang="it-IT">Posa palo</name>
     <text lang="it-IT">posa palo</text>
     <lines thickness="12.5">
-      <point x="-30" y="-50"/>
-      <point x="-30" y="50"/>
+      <point x="-29" y="-50"/>
+      <point x="-29" y="50"/>
+    </lines>
+    <lines thickness="12.5">
+      <point x="-29" y="50"/>
+      <point x="-2" y="50"/>
+    </lines>
+    <lines thickness="12.5">
+      <point x="-29" y="-3"/>
+      <point x="-2" y="-3"/>
     </lines>
     <beziers thickness="12.5">
-      <point x="-30" y="50"/>
-      <point x="15" y="50"/>
-      <point x="30" y="45"/>
-      <point x="30" y="25"/>
-      <point x="30" y="5"/>
-      <point x="15" y="0"/>
-      <point x="-30" y="0"/>
+      <point x="-2" y="50"/>
+      <point x="40" y="50"/>
+      <point x="40" y="-3"/>
+      <point x="-2" y="-3"/>
     </beziers>
   </symbol>
 
@@ -12242,13 +12247,13 @@ for the symbols.
     <name lang="it-IT">Posa cavalletto</name>
     <text lang="it-IT">posa cavalletto</text>
     <beziers thickness="12.5">
-      <point x="30" y="35"/>
-      <point x="0" y="70"/>
-      <point x="-30" y="35"/>
+      <point x="30" y="38"/>
+      <point x="0" y="64"/>
+      <point x="-30" y="45"/>
       <point x="-30" y="0"/>
-      <point x="-30" y="-35"/>
-      <point x="0" y="-70"/>
-      <point x="30" y="-35"/>
+      <point x="-30" y="-45"/>
+      <point x="0" y="-64"/>
+      <point x="30" y="-38"/>
     </beziers>
   </symbol>
 
@@ -12261,8 +12266,8 @@ for the symbols.
       <point x="30" y="-50"/>
     </lines>
     <lines thickness="12.5">
-      <point x="-18" y="-10"/>
-      <point x="18" y="-10"/>
+      <point x="-21" y="-20"/>
+      <point x="21" y="-20"/>
     </lines>
   </symbol>
 
