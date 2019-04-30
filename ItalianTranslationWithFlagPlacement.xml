@@ -1560,9 +1560,9 @@ for the symbols.
     <name lang="fr">Levée de terre</name>
     <text lang="fr" gender="féminin">levée de terre</text>
     <text lang="fr" plural="true" gender="féminin">levées de terre</text>
-    <name lang="it-IT">Muro di terra</name>
-    <text lang="it-IT" gender="maschile">muro di terra</text>
-    <text lang="it-IT" plural="true" gender="maschile">muri di terra</text>
+    <name lang="it-IT">Terrapieno</name>
+    <text lang="it-IT" gender="maschile">terrapieno</text>
+    <text lang="it-IT" plural="true" gender="maschile">terrapieni</text>
     <name lang="ja">土塁・堤防</name>
     <text lang="ja">土塁</text>
     <name lang="nb-NO">Jordvold</name>
@@ -2453,9 +2453,9 @@ for the symbols.
     <name lang="fr">Falaise</name>
     <text lang="fr" gender="féminin">falaise</text>
     <text lang="fr" plural="true" gender="féminin">falaises</text>
-    <name lang="it-IT">Parete di roccia</name>
-    <text lang="it-IT" gender="femminile">parete di roccia</text>
-    <text lang="it-IT" plural="true" gender="femminile">pareti di roccia</text>
+    <name lang="it-IT">Parete rocciosa</name>
+    <text lang="it-IT" gender="femminile">parete rocciosa</text>
+    <text lang="it-IT" plural="true" gender="femminile">pareti rocciose</text>
     <name lang="ja">岩がけ・岩壁</name>
     <text lang="ja">岩がけ</text>
     <name lang="nb-NO">Skrent</name>
@@ -2740,9 +2740,9 @@ for the symbols.
     <name lang="fr">Zone rocheuse</name>
     <text lang="fr" gender="féminin">zone rocheuse</text>
     <text lang="fr" plural="true" gender="féminin">zones rocheuses</text>
-    <name lang="it-IT">Zona sassosa</name>
-    <text lang="it-IT" gender="femminile">zona sassosa</text>
-    <text lang="it-IT" plural="true" gender="femminile">zone sassose</text>
+    <name lang="it-IT">Zona di massi</name>
+    <text lang="it-IT" gender="femminile">zona di massi</text>
+    <text lang="it-IT" plural="true" gender="femminile">zone di massi</text>
     <name lang="ja">岩石地</name>
     <text lang="ja">岩石地</text>
     <name lang="nb-NO">Steinrøys</name>
@@ -3402,9 +3402,9 @@ for the symbols.
     <name lang="fr">Trou d'eau</name>
     <text lang="fr" gender="masculin">trou d'eau</text>
     <text lang="fr" plural="true" gender="masculin">trous d'eau</text>
-    <name lang="it-IT">Buca d'acqua</name>
-    <text lang="it-IT" gender="femminile">buca d'acqua</text>
-    <text lang="it-IT" plural="true" gender="femminile">buche d'acqua</text>
+    <name lang="it-IT">Buca d’acqua</name>
+    <text lang="it-IT" gender="femminile">buca d’acqua</text>
+    <text lang="it-IT" plural="true" gender="femminile">buche d’acqua</text>
     <name lang="ja">小さな池</name>
     <text lang="ja">小さな池</text>
     <name lang="nb-NO">Vannfylt grop</name>
@@ -3696,9 +3696,9 @@ for the symbols.
     <name lang="fr">Marais étroit</name>
     <text lang="fr" gender="masculin">marais étroit</text>
     <text lang="fr" plural="true" gender="masculin">marais étroits</text>
-    <name lang="it-IT">Striscia di palude</name>
-    <text lang="it-IT" gender="femminile">striscia di palude</text>
-    <text lang="it-IT" plural="true" gender="femminile">strisce di palude</text>
+    <name lang="it-IT">Striscia paludosa</name>
+    <text lang="it-IT" gender="femminile">striscia paludosa</text>
+    <text lang="it-IT" plural="true" gender="femminile">strisce paludose</text>
     <name lang="ja">細い湿地</name>
     <text lang="ja">細い湿地</text>
     <name lang="nb-NO">Råsig</name>
@@ -4133,9 +4133,9 @@ for the symbols.
     <name lang="fr">Réservoir d'eau, citerne</name>
     <text lang="fr" gender="masculin">réservoir d'eau ou citerne</text>
     <text lang="fr" plural="true" gender="masculin">réservoirs d'eau ou citernes</text>
-    <name lang="it-IT">Cisterna d'acqua</name>
-    <text lang="it-IT" gender="femminile">cisterna d'acqua</text>
-    <text lang="it-IT" plural="true" gender="femminile">cisterne d'acqua</text>
+    <name lang="it-IT">Cisterna</name>
+    <text lang="it-IT" gender="femminile">cisterna</text>
+    <text lang="it-IT" plural="true" gender="femminile">cisterne</text>
     <name lang="ja">貯水槽</name>
     <text lang="ja">貯水槽</text>
     <name lang="nb-NO">Vanntank</name>
@@ -5400,9 +5400,9 @@ for the symbols.
     <name lang="fr">Pylône de ligne HT</name>
     <text lang="fr" gender="masculin">pylône de ligne HT</text>
     <text lang="fr" plural="true" gender="masculin">pylônes de ligne HT</text>
-    <name lang="it-IT">Pilone di linea elettrica</name>
-    <text lang="it-IT" gender="maschile">pilone di linea elettrica</text>
-    <text lang="it-IT" plural="true" gender="maschile">piloni di linea elettrica</text>
+    <name lang="it-IT">Pilone</name>
+    <text lang="it-IT" gender="maschile">pilone</text>
+    <text lang="it-IT" plural="true" gender="maschile">piloni</text>
     <name lang="ja">送電線の支柱・鉄塔</name>
     <text lang="ja">鉄塔</text>
     <name lang="nb-NO">Mast</name>
@@ -6168,9 +6168,9 @@ for the symbols.
     <name lang="fr">Poste d'observation</name>
     <text lang="fr" gender="masculin">poste d'observation</text>
     <text lang="fr" plural="true" gender="masculin">postes d'observation</text>
-    <name lang="it-IT">Piattaforma d'osservazione</name>
-    <text lang="it-IT" gender="femminile">piattaforma d'osservazione</text>
-    <text lang="it-IT" plural="true" gender="femminile">piattaforme d'osservazione</text>
+    <name lang="it-IT">Piattaforma d’osservazione</name>
+    <text lang="it-IT" gender="femminile">piattaforma d’osservazione</text>
+    <text lang="it-IT" plural="true" gender="femminile">piattaforme d’osservazione</text>
     <name lang="ja">射撃台</name>
     <text lang="ja">射撃台</text>
     <name lang="nb-NO">Jakttårn</name>
@@ -6375,9 +6375,9 @@ for the symbols.
     <name lang="fr">Charbonnière</name>
     <text lang="fr" gender="féminin">charbonnière</text>
     <text lang="fr" plural="true" gender="féminin">charbonnières</text>
-    <name lang="it-IT">Carbonaia</name>
-    <text lang="it-IT" gender="femminile">carbonaia</text>
-    <text lang="it-IT" plural="true" gender="femminile">carbonaie</text>
+    <name lang="it-IT">Piazzola</name>
+    <text lang="it-IT" gender="femminile">piazzola</text>
+    <text lang="it-IT" plural="true" gender="femminile">piazzole</text>
     <name lang="ja">炭焼き窯跡・炭焼き場</name>
     <text lang="ja">炭焼き窯跡</text>
     <name lang="nb-NO">Kullmile</name>
@@ -6514,9 +6514,9 @@ for the symbols.
     <name lang="fr">Passage couvert</name>
     <text lang="fr" gender="masculin">passage couvert</text>
     <text lang="fr" plural="true" gender="masculin">passages couverts</text>
-    <name lang="it-IT">Passaggio coperto</name>
-    <text lang="it-IT" gender="maschile">passaggio coperto</text>
-    <text lang="it-IT" plural="true" gender="maschile">passaggi coperti</text>
+    <name lang="it-IT">Portico</name>
+    <text lang="it-IT" gender="maschile">portico</text>
+    <text lang="it-IT" plural="true" gender="maschile">portici</text>
     <name lang="ja">建物の通過できる部分</name>
     <text lang="ja">建物の通過できる部分</text>
     <name lang="nb-NO">Overbygg</name>
@@ -7887,7 +7887,8 @@ for the symbols.
     <name lang="fr">Croisement</name>
     <text lang="fr" gender="masculin">croisement entre {0} et {1}</text>
     <name lang="it-IT">Incrocio</name>
-    <text lang="it-IT">incrocio tra {0} e {1}</text>
+    <text lang="it-IT">incrocio di {0} e {1}</text>
+    <text lang="it-IT" plural="true">incroci di {0} e {1}</text>
     <name lang="ja">交点</name>
     <text lang="ja">{0}と{1}の交点</text>
     <name lang="nb-NO">Kryss</name>
@@ -7945,7 +7946,8 @@ for the symbols.
     <name lang="fr">Croisement (mêmes symboles)</name>
     <text lang="fr" gender="masculin">croisement de {1}</text>
     <name lang="it-IT">Incrocio (oggetti uguali)</name>
-    <text lang="it-IT">incrocio tra {1}</text>
+    <text lang="it-IT">incrocio di {1}</text>
+    <text lang="it-IT" plural="true">incroci di {1}</text>
     <name lang="ja">(同種の特徴物の)交点</name>
     <text lang="ja">{0}の交点</text>
     <name lang="nb-NO">Kryss</name>
@@ -7995,7 +7997,8 @@ for the symbols.
     <name lang="fr">Jonction</name>
     <text lang="fr" gender="féminin">jonction entre {0} et {1}</text>
     <name lang="it-IT">Raccordo</name>
-    <text lang="it-IT">raccordo tra {0} e {1}</text>
+    <text lang="it-IT">raccordo di {0} e {1}</text>
+    <text lang="it-IT" plural="true">raccordi di {0} e {1}</text>
     <name lang="ja">分岐</name>
     <text lang="ja">{0}と{1}の分岐</text>
     <name lang="nb-NO">Dele</name>
@@ -8054,7 +8057,8 @@ for the symbols.
     <name lang="fr">Jonction (mêmes symboles)</name>
     <text lang="fr" gender="féminin">jonction de {1}</text>
     <name lang="it-IT">Raccordo (oggetti uguali)</name>
-    <text lang="it-IT">raccordo tra {1}</text>
+    <text lang="it-IT">raccordo di {1}</text>
+    <text lang="it-IT" plural="true">raccordi di {1}</text>
     <name lang="ja">(同種の特徴物の)分岐</name>
     <text lang="ja">{0}の分岐</text>
     <name lang="nb-NO">Junction (objects of same kind)</name>
@@ -12783,7 +12787,7 @@ for the symbols.
     <name lang="fr">Parcours entièrement balisé</name>
     <text lang="fr">suivre le parcours balisé sur {0}jusqu'à l'arrivée</text>
     <name lang="it-IT">Arrivo fettucciato</name>
-    <text lang="it-IT">{0}fettucciati fino all'arrivo</text>
+    <text lang="it-IT">{0}fettucciati fino all’arrivo</text>
     <name lang="ja">フィニッシュまで誘導</name>
     <text lang="ja">フィニッシュまで誘導 {0}</text>
     <name lang="nb-NO">Merket løype til mål</name>
@@ -12862,7 +12866,7 @@ for the symbols.
     <name lang="fr">Balisage convergent</name>
     <text lang="fr">{0}jusqu'à l'arrivée (balisage convergent)</text>
     <name lang="it-IT">Arrivo con corridoio finale fettucciato</name>
-    <text lang="it-IT">{0}con corridoio finale fettucciato fino all'arrivo</text>
+    <text lang="it-IT">{0}con corridoio finale fettucciato fino all’arrivo</text>
     <name lang="ja">フィニッシュまで漏斗状誘導</name>
     <text lang="ja">フィニッシュまで漏斗状誘導 {0}</text>
     <name lang="nb-NO">oppfangende merking til mål</name>
@@ -12942,7 +12946,7 @@ for the symbols.
     <name lang="fr">Trajet non balisé</name>
     <text lang="fr">s'orienter sur {0}jusqu'à l'arrivée (trajet non balisé)</text>
     <name lang="it-IT">Arrivo non fettucciato</name>
-    <text lang="it-IT">{0}non fettucciati fino all'arrivo</text>
+    <text lang="it-IT">{0}non fettucciati fino all’arrivo</text>
     <name lang="ja">フィニッシュまで誘導なし</name>
     <text lang="ja">フィニッシュまで誘導なし {0}</text>
     <name lang="nb-NO">Ingen merking til mål</name>
